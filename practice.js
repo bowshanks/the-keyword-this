@@ -2,19 +2,22 @@
   // 1) What is the purpose of the 'this keyword'?
 
       //Answer
-//to direct whatever object you are working with to the correct context
+      //to be able to encapsulate or alter the context.
 
   // 2) What are the four rules that govern what the 'this keyword' is bound to and describe each?
 
       //Answer
-
+      // explicit binding, implicit binding, Default/window, New Binding
   // 3) What is the difference between call and apply?
 
       //Answer
+      //call takes a list of parameters
+      //apply takes a single array
 
   // 4) What does .bind do?
 
       //Answer
+      //it permanently setting the context of a function
 
 
 //Next Problem
